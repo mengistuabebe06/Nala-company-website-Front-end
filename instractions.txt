@@ -1,0 +1,5 @@
+**************
+1- let setup the color from figma
+    - use the colors
+2- setup fonts in app.css
+3- setup flow bite for carousel from https://www.flowbite-react.com/docs/components/carousel

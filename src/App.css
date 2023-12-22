@@ -19,8 +19,9 @@ header{
 
 }
 
-
-
+.sliderimg {
+  @apply w-full h-full object-cover;
+}
 
 
 

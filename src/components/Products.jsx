@@ -1,7 +1,7 @@
 import React from "react";
 import icons from "../assets/icons/membership.jpg";
-import aboutimg from "../assets/about3.avif";
-import sidimgae from "../assets/about1.png";
+import aboutimg from "../assets/const3.jpg";
+import sidimgae from "../assets/constraction.jpg";
 export default function Products() {
   return (
     <div>

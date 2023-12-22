@@ -4,6 +4,7 @@ import LatestNews from "../components/LatestNews";
 import { useDispatch, useSelector } from "react-redux";
 import { useEffect } from "react";
 import { courseList } from "../action/courseAction";
+import Slider from "../components/Slider";
 
 export default function HomePage() {
   const dispatch = useDispatch();
@@ -82,6 +83,7 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+      <Slider />
       {/* <Testemonial></Testemonial>
       <LatestNews></LatestNews> */}
     </>
